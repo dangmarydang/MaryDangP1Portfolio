@@ -77,17 +77,14 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
-  color: black;
+  background-color: white;
+  color: lightseagreen;
   padding: 10px;
   border-radius: 5px;
   display: table;
-  margin: 10px auto;
+  margin: 35px auto;
 }
-.location {
-  background-color: #222;
-  color: yellow;
-}
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
